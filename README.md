@@ -6,7 +6,8 @@ In this program, you have to design a number of questions in the form of short, 
 do. Then select 5 questions at random from the questions and show them to the user one by one
 to give. The user enters each question and for each correct answer enters 10 positive points for each question
 Wrong answer gets 3 negative points and gets zero points for each question without answer. In the end if the user
-If he has more than 40 points, he wins and otherwise he loses.\
+If he has more than 40 points, he wins and otherwise he loses.
+
 
 
 In the main part of the code, first define 5 questions from each type of question. Then select 5 questions
